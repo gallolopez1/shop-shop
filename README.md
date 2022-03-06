@@ -2,7 +2,7 @@
 
 ## Links
 
-- 🌎 [Live](#)
+- 🌎 [Live](https://shop-shop-e-commerce-platform.herokuapp.com/)
 - 💾 [Repo](https://github.com/gallolopez1/shop-shop)
 
 # <u> App Preview</u>
